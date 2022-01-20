@@ -1,0 +1,4 @@
+Pseudo		Score		Département traités
+
+Arthuur		10 / 10		 1-10
+Arthur		10 / 10		 1-10
